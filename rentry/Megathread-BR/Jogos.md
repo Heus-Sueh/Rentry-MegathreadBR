@@ -151,6 +151,6 @@
  !!! info
 	 Está buscando Emuladores e ROMs? 
 	 ➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](https://rentry.org/MegathreadBR-emuladores-e-roms) 
-	 Para saber mais sobre o assunto confira a [Megathread do Pirated Games](https://rentry-org.translate.goog/pgames?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
+	 Para saber mais sobre o assunto confira a [Megathread do Pirated Games Traduzida](https://rentry.co/MegathreadBR_Jogos-Piratas)
 # 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

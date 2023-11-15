@@ -33,9 +33,6 @@
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-### ▶️ [Braflix](https://www.braflix.app/pt)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
-
 ### ▶️ [Pobreflix](https://pobreflix.biz/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflix.biz/)
 
@@ -95,14 +92,17 @@
 ---
 ## 📑 2 ➜ Torrents
 
-### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
-
 ### 🧲 [Rede Torrent](https://redetorrent.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
+### 🧲 [Comando.la](https://comando.la/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+
+### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
+
 ### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lapumia.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/)
 
 ### 🧲 [Nick Filmes](https://nickfilmes.net/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nickfilmes.net/)
@@ -110,17 +110,17 @@
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
 
-### 🧲 [Vamos Torrent](https://vamostorrent.com/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
-
-### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
-
 ### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdofilmes.com/)
 
+### 🧲 [Vamos Torrent](https://vamostorrent.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
+
 ### 🧲 [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarfilmestorrenthd.com/)
+
+### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
 
 ---
 ## 📑 3 ➜ Legendas
@@ -157,7 +157,7 @@
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subscene.com/)
 
 ---
- !!! note
+ !!! info
 	 Está buscando Apps para Assistir/Baixar Filmes e Séries para Celular? 
 	 ➜ Confira nossa Megathread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile#filmes-e-tv)
 

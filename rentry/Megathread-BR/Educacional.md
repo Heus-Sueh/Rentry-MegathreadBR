@@ -23,17 +23,18 @@
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos  
 ### ▶️ **[Kultivi](https://app.kultivi.com/)** - Cursos
 ### ▶️ **[PrimeCursos](https://www.primecursos.com.br/)** - Cursos
-### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
-### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
+### ▶️ **[UNIASSELVI](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
+### ▶️ **[Canal do Ensino](https://canaldoensino.com.br/blog/)** - Cursos
 ### ▶️ **[Academy.omie](https://academy.omie.com.br/)** - Cursos
-### ▶️ **[moocs.ggte](https://moocs.ggte.unicamp.br/)** - Cursos
-### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos
+### ▶️ **[MOOC GGTE](https://moocs.ggte.unicamp.br/)** - Cursos
+### ▶️ **[Pensar Cursos](https://www.pensarcursos.com.br/)** - Cursos
 ### ▶️ **[iestudar](https://iestudar.com/)** - Cursos
-### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos
-### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos
+
+### ▶️ **[Escola Virtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos
 ### ▶️ **[EV](https://www.ev.org.br/)** - Cursos
-### ▶️ **[veduca](https://veduca.org/gratuitos/)** - Cursos
-### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
+### ▶️ **[Veduca](https://veduca.org/gratuitos/)** - Cursos
+
+### ▶️ [GynCursos](https://gyncursos.com.br/) - Cursos
 
 ---
 ## 📑 2 ➜ Downloads diretos
