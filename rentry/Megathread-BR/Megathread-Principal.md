@@ -9,7 +9,7 @@
     - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://fastforward.team/) com essas [ configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
     - [x] Altere suas configurações de DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/) (*Ignora as limitações de acesso ao sites bloqueados pela operadora*).
     - [x] Use um cliente de torrent respeitável com um kill switch, como [qBittorrent](https://www.qbittorrent.org/) (*Permite torrenting*).
-    - [x] Configure uma VPN como [Mullvad](https://mullvad.net/) ou [ProtonVPN](https://protonvpn.com/) (*Altera o endereço IP para ocultar a identidade*).
+    - [x] (Opcional) Configure uma VPN como [Mullvad](https://mullvad.net/) ou [ProtonVPN](https://protonvpn.com/) (*Altera o endereço IP para ocultar a identidade*).
     - [x] Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
     - [x] Veja o nosso [Glossário](https://rentry.co/Pirataria-Glossario) caso esteja perdido com alguns termos/palavras usados na Pirataria.
 

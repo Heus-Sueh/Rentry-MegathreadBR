@@ -86,6 +86,7 @@ Downloads diretos são qualquer download normal. Você baixa o arquivo de um ser
  - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
  - [MyAbandonware](https://www.myabandonware.com/)
  - [OldGamesDownload](https://oldgamesdownload.com/)
+
 **Jogos modernos para PC**
  - [CS.RIN.RU - Comunidade Steam Underground](https://cs.rin.ru/forum/) - site útil, especialmente se você não conseguir encontrar um crack em outros sites, requer registro. [Link Tor](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum) | [Guia sobre como usar](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md)
  - [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be %db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - use o Google Tradutor.
