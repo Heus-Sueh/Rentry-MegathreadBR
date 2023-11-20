@@ -106,6 +106,8 @@
 
 ### | ***Música*** |
 
+- [Namida](https://github.com/namidaco/namida) - Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
+
 - [Musify](https://github.com/gokadzev/Musify) - Aplicativo de streaming e download de músicas feito em Flutter!
 
 * [LibreTube](https://libre-tube.github.io/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
