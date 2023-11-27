@@ -1,9 +1,9 @@
 # [Novo Repositório!!!](https://github.com/c-pirataria/megathread)
 
 # Aviso!!!
-
-Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos para o MkDocs, você pode acessar o novo repositório por aqui:
-https://github.com/c-pirataria/megathread
+- Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos para o MkDocs. 
+- Se quiser manter essa Megathread você pode entrar em contato [comigo](https://github.com/Heus-Sueh) ou fazer um fork do [repositório](https://github.com/Heus-Sueh/Rentry-MegathreadBR) e fazer um pull request.
+- Links para nova Megathread e Repositório: [Megathread Nova](https://c-pirataria.github.io/megathread/) e [Repositório da Nova Megathread](https://github.com/c-pirataria/megathread)
 
 # O que são as Megathreads?
 
