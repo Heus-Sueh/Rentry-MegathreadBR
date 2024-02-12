@@ -1,7 +1,7 @@
 # [Novo Repositório!!!](https://github.com/c-pirataria/megathread)
 
-# Aviso!!!
-- Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos a Megathread para o MkDocs. 
+# ⚠️ Aviso!!!
+- Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos a Megathread para o [Vitepress](https://vitepress.dev/). 
 - Se quiser manter essa Megathread você pode [fazer um fork do repositório](https://github.com/Heus-Sueh/Rentry-MegathreadBR/fork) e fazer um pull request.
 - Links para nova Megathread e Repositório: [Megathread Nova](https://c-pirataria.github.io/megathread/) e [Repositório](https://github.com/c-pirataria/megathread)
 
